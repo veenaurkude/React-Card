@@ -1,0 +1,31 @@
+.card {
+  display: block;
+  padding: 45px;
+  border: 1px solid aquamarine;
+  width: 300px;
+  background-color: aquamarine;
+  margin: auto;
+  border-radius: 8px;
+}
+
+.innerCard {
+  padding: 15px;
+  display: block;
+  border: 1px solid antiquewhite;
+  border-radius: 10px;
+  background-color: antiquewhite;
+  box-shadow: 8px 8px 8px 8px;
+}
+
+.image {
+  margin: 10px;
+  padding: 5px;
+  width: 90px;
+  height: 80px;
+  border-radius: 50px;
+}
+
+p {
+  font-weight: "lighter";
+  font-size: 12px;
+}
